@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/mybookstoredb
+    username: root
+    password: TfacVNmz.781
+
+server:
+  port: 8080
